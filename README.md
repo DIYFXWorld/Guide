@@ -4,7 +4,8 @@
 * <a href=https://github.com/DIYFXWorld/BPD/>BPD - Delay, Analog delay, Reverse delay.</a>  
 
 
-#for Programmer
+
+
 
 * <a href=https://github.com/DIYFXWorld/BPD_Template/>BPD_Template - BPD empty skeleton project.</a>  
 * <a href=https://github.com/DIYFXWorld/BPFX_Template/>BPFX_Template - BPFX empty skeleton project.</a>  
