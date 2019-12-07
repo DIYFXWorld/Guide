@@ -6,7 +6,7 @@
 
 * <a href=https://github.com/DIYFXWorld/BPD/>BPD - ディレイ、アナログディレイ、リバースディレイ ( Delay, Analog delay, Reverse delay. )</a>  
 
-* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>エフェクトプログラミングを始めよう ( Do you start FX programming ? )</a>  
+* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>エフェクトプログラミングを始めますか？ ( Do you start FX programming ? )</a>  
 
 * <a href=https://github.com/DIYFXWorld/BPD_Template/>BPD_Template - BPD用の空のプロジェクト ( BPD empty skeleton project. )</a>  
 
