@@ -1,4 +1,4 @@
-# ‚à‚­‚¶ (Japanese)
+# –ÚŸ (Japanese)
 
 * <a href=https://github.com/DIYFXWorld/How_do_you_write_a_program>‚Ç‚¤‚â‚Á‚ÄƒvƒƒOƒ‰ƒ€‚ğ‘‚«‚İ‚Ü‚·‚©H</a>  
 
