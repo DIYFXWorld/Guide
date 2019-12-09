@@ -2,7 +2,7 @@
 
 * 作ってみる
 
-	* <a href=https://github.com/DIYFXWorld/BPFX/>BPFX - Blue Pill F103C8 最小サウンドエフェクト開発環境</a>  
+	* <a href=https://github.com/DIYFXWorld/BPFX/>BPFX - Blue Pill F103C8 最小サウンドFX開発環境</a>  
 
 	* <a href=https://github.com/DIYFXWorld/BPD/>BPD - ディレイ、アナログディレイ、リバースディレイ</a>  
 
@@ -10,7 +10,7 @@
 
 * プログラミング
 
-	* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>エフェクトプログラミングを始めますか？</a>  
+	* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>FXプログラミングを始めますか？</a>  
 
  	* <a href=https://github.com/DIYFXWorld/BPD_Template/>BPD_Template - BPD用の空のプロジェクト</a>  
 
