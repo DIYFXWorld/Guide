@@ -8,7 +8,7 @@
 
 	* <a href=https://github.com/DIYFXWorld/How_do_you_write_a_program>どうやってプログラムを書き込みますか？</a>  
 
-* プログラミングする
+* プログラミング
 
 	* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>エフェクトプログラミングを始めますか？</a>  
 
