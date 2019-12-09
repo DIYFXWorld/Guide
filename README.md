@@ -1,6 +1,6 @@
 # 目次 (Japanese)
 
-* ハードウェア
+* 作ってみる
 
 	* <a href=https://github.com/DIYFXWorld/BPFX/>BPFX - Blue Pill F103C8 最小サウンドエフェクト開発環境</a>  
 
@@ -8,7 +8,7 @@
 
 	* <a href=https://github.com/DIYFXWorld/How_do_you_write_a_program>どうやってプログラムを書き込みますか？</a>  
 
-* ソフトウェア
+* プログラミング
 
 	* <a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming>エフェクトプログラミングを始めますか？</a>  
 
