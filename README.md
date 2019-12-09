@@ -15,6 +15,3 @@
  	* <a href=https://github.com/DIYFXWorld/BPD_Template/>BPD_Template - BPD用の空のプロジェクト</a>  
 
 	* <a href=https://github.com/DIYFXWorld/BPFX_Template/>BPFX_Template - BPFX用の空のプロジェクト</a>  
-
-
-<a href="https://github.com/DIYFXWorld?tab=repositories">See also Repositories tab.</a>
