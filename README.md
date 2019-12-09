@@ -1,6 +1,6 @@
 # 目次 (Japanese)
 
-###作る
+### 作る
 
 * <a href=https://github.com/DIYFXWorld/BPFX/>BPFX - Blue Pill F103C8 最小サウンドエフェクト開発環境</a>  
 
