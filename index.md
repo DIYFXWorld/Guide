@@ -1,13 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8">
-<title>TipsNote : GitHub Pages Sample</title>
-<body>
-</head>
-<main>
-  <h1>GitHub Pages サンプル</h1>
-  <a href="http://www.tam-tam.co.jp/tipsnote/"><button>TipsNote</button></a>
-</main>
-
-</body>
+	<head>
+		<meta charset="UTF-8">
+		<title>TipsNote : GitHub Pages Sample
+		</title>
+	</head>
+	<body>
+		<main>
+		  <h1>GitHub Pages サンプル</h1>
+  		<a href="http://www.tam-tam.co.jp/tipsnote/"><button>TipsNote</button></a>
+		</main>
+	</body>
 </html>
